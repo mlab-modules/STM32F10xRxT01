@@ -9,6 +9,7 @@ images:
 - doc/img/STM32F10xRxT_QRcode.png
 - doc/img/STM32F10xRxT01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
